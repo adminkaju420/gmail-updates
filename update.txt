@@ -1,0 +1,2 @@
+version=3.0
+url=https://yourdomain.com/GmailCreator_3.0.exe
